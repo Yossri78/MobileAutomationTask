@@ -7,8 +7,9 @@
   - Cucumber/Extent Report
 
 💢Running Instructions:
-
-  Run script through TestRunner.class
+  - Add your device name and Android version in the DriverManager.class
+  - Run Appium server
+  - Run script through TestRunner.class
 
 💢Reports:
 
