@@ -1,4 +1,4 @@
-💢The main Frameworks included in the project:
+ 💢The main Frameworks included in the project:
   - Java
   - Maven
   - TestNG
@@ -6,11 +6,15 @@
   - Cucumber
   - Cucumber/Extent Report
 
-💢Running Instructions:
-  - Add your device name and Android version in the DriverManager.class
+ 💢Running Instructions:
+  - Set options for your device name and Android version in the DriverManager.class
   - Run Appium server
   - Run script through TestRunner.class
 
-💢Reports:
+ 💢Reports:
 
   Report will be found in the following path "test-output/SparkReport/ExtendPDF.pdf" and it will be generated after each run
+
+ 💢Tools used:
+    - AVD Android Studio
+    - Appium Inspector
