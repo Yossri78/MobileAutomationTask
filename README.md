@@ -16,5 +16,5 @@
   Report will be found in the following path "test-output/SparkReport/ExtendPDF.pdf" and it will be generated after each run
 
  💢Tools used:
-    - AVD Android Studio
-    - Appium Inspector
+  - Android Studio
+  - Appium Inspector
